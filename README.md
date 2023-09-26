@@ -1,4 +1,5 @@
-Hi there!
+# Hello there!
+I am Ruiqi, an undergrad student in Shanghai, China.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weenming/weenming/output/github-contribution-grid-snake-dark.svg">
